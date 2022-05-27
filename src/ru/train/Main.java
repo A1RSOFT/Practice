@@ -6,6 +6,7 @@ public class Main {
     }
 
     // My method
+    // Comment feature/pb-3
     public static void outPut(String string) {
         System.out.printf(string);
     }
