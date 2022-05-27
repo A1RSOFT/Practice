@@ -5,6 +5,7 @@ public class Main {
         outPut("Hello");
     }
 
+    // My method
     public static void outPut(String string) {
         System.out.printf(string);
     }
